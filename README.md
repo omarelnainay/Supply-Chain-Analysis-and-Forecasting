@@ -16,7 +16,7 @@ DEPI_Final_Project_Report.docx: Detailed documentation and project report.
 
 README.md — Project description and instructions.
 
-Features
+-Features
 
 Reads and processes structured sales data from Excel.
 
